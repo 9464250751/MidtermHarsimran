@@ -19,7 +19,7 @@ body {
 
 /* Header Styles */
 header {
-    background: linear-gradient(135deg, #8B4513 0%, #D2691E 100%);
+    background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
     color: white;
     padding: 1rem 0;
     box-shadow: 0 2px 10px rgba(0,0,0,0.1);
@@ -68,8 +68,8 @@ nav a.active {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(rgba(139, 69, 19, 0.7), rgba(139, 69, 19, 0.7)),
-                url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600"><rect fill="%23F5DEB3" width="1200" height="600"/></svg>');
+    background: linear-gradient(rgba(30, 58, 138, 0.8), rgba(30, 58, 138, 0.8)),
+                url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600"><rect fill="%23dbeafe" width="1200" height="600"/></svg>');
     background-size: cover;
     background-position: center;
     color: white;
@@ -90,7 +90,7 @@ nav a.active {
 /* Button Styles */
 .btn {
     display: inline-block;
-    background-color: #CD853F;
+    background-color: #3b82f6;
     color: white;
     padding: 1rem 2rem;
     text-decoration: none;
@@ -102,7 +102,7 @@ nav a.active {
 }
 
 .btn:hover {
-    background-color: #8B4513;
+    background-color: #1e3a8a;
     transform: translateY(-2px);
     box-shadow: 0 5px 15px rgba(0,0,0,0.2);
 }
@@ -110,14 +110,14 @@ nav a.active {
 /* Features Section */
 .features {
     padding: 4rem 0;
-    background-color: #FFF8DC;
+    background-color: #f0f9ff;
 }
 
 .features h2 {
     text-align: center;
     font-size: 2.5rem;
     margin-bottom: 3rem;
-    color: #8B4513;
+    color: #1e3a8a;
 }
 
 .feature-grid {
@@ -145,7 +145,7 @@ nav a.active {
 }
 
 .feature-card h3 {
-    color: #8B4513;
+    color: #1e3a8a;
     margin-bottom: 1rem;
 }
 
@@ -164,7 +164,7 @@ nav a.active {
 
 .about-preview h2 {
     font-size: 2.5rem;
-    color: #8B4513;
+    color: #1e3a8a;
     margin-bottom: 1rem;
 }
 
@@ -174,7 +174,7 @@ nav a.active {
 }
 
 .placeholder-image {
-    background: linear-gradient(135deg, #D2691E 0%, #8B4513 100%);
+    background: linear-gradient(135deg, #3b82f6 0%, #1e3a8a 100%);
     color: white;
     height: 300px;
     display: flex;
@@ -187,7 +187,7 @@ nav a.active {
 
 /* Page Header */
 .page-header {
-    background: linear-gradient(135deg, #8B4513 0%, #D2691E 100%);
+    background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
     color: white;
     padding: 3rem 0;
     text-align: center;
@@ -201,7 +201,7 @@ nav a.active {
 /* Menu Section */
 .menu-section {
     padding: 3rem 0;
-    background-color: #FFF8DC;
+    background-color: #f0f9ff;
 }
 
 .menu-category {
@@ -210,10 +210,10 @@ nav a.active {
 
 .menu-category h3 {
     font-size: 2rem;
-    color: #8B4513;
+    color: #1e3a8a;
     margin-bottom: 1.5rem;
     padding-bottom: 0.5rem;
-    border-bottom: 3px solid #CD853F;
+    border-bottom: 3px solid #3b82f6;
 }
 
 .menu-grid {
@@ -236,7 +236,7 @@ nav a.active {
 }
 
 .menu-item h4 {
-    color: #8B4513;
+    color: #1e3a8a;
     margin-bottom: 0.5rem;
 }
 
@@ -249,13 +249,13 @@ nav a.active {
 .price {
     display: block;
     font-weight: bold;
-    color: #CD853F;
+    color: #3b82f6;
     font-size: 1.2rem;
     margin-top: 0.5rem;
 }
 
 .deals-banner {
-    background: linear-gradient(135deg, #CD853F 0%, #8B4513 100%);
+    background: linear-gradient(135deg, #3b82f6 0%, #1e3a8a 100%);
     color: white;
     padding: 2rem;
     border-radius: 15px;
@@ -285,7 +285,7 @@ nav a.active {
 
 .about-section h3 {
     font-size: 2rem;
-    color: #8B4513;
+    color: #1e3a8a;
     margin-bottom: 1rem;
 }
 
@@ -303,7 +303,7 @@ nav a.active {
 }
 
 .value-card {
-    background: #FFF8DC;
+    background: #f0f9ff;
     padding: 2rem;
     border-radius: 10px;
     text-align: center;
@@ -315,14 +315,14 @@ nav a.active {
 }
 
 .value-card h4 {
-    color: #8B4513;
+    color: #1e3a8a;
     margin-bottom: 0.5rem;
 }
 
 /* Contact Section */
 .contact-section {
     padding: 3rem 0;
-    background-color: #FFF8DC;
+    background-color: #f0f9ff;
 }
 
 .contact-grid {
@@ -341,7 +341,7 @@ nav a.active {
 
 .contact-info h3 {
     font-size: 2rem;
-    color: #8B4513;
+    color: #1e3a8a;
     margin-bottom: 2rem;
 }
 
@@ -350,7 +350,7 @@ nav a.active {
 }
 
 .info-block h4 {
-    color: #8B4513;
+    color: #1e3a8a;
     font-size: 1.3rem;
     margin-bottom: 0.5rem;
 }
@@ -370,7 +370,7 @@ nav a.active {
 
 .contact-form-container h3 {
     font-size: 2rem;
-    color: #8B4513;
+    color: #1e3a8a;
     margin-bottom: 1.5rem;
 }
 
@@ -381,7 +381,7 @@ nav a.active {
 .form-group label {
     display: block;
     margin-bottom: 0.5rem;
-    color: #8B4513;
+    color: #1e3a8a;
     font-weight: 500;
 }
 
@@ -399,7 +399,7 @@ nav a.active {
 .form-group input:focus,
 .form-group textarea:focus {
     outline: none;
-    border-color: #CD853F;
+    border-color: #3b82f6;
 }
 
 .location-map {
@@ -411,12 +411,12 @@ nav a.active {
 
 .location-map h3 {
     font-size: 2rem;
-    color: #8B4513;
+    color: #1e3a8a;
     margin-bottom: 1.5rem;
 }
 
 .map-placeholder {
-    background: #FFF8DC;
+    background: #f0f9ff;
     padding: 3rem;
     border-radius: 10px;
     text-align: center;
@@ -429,7 +429,7 @@ nav a.active {
 
 /* Footer */
 footer {
-    background-color: #8B4513;
+    background-color: #1e3a8a;
     color: white;
     text-align: center;
     padding: 2rem 0;
